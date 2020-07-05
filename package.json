@@ -36,7 +36,6 @@
     "@ckeditor/ckeditor5-paragraph": "^19.1.0",
     "@ckeditor/ckeditor5-paste-from-office": "^19.0.2",
     "@ckeditor/ckeditor5-remove-format": "^19.0.1",
-    "@ckeditor/ckeditor5-restricted-editing": "^19.0.1",
     "@ckeditor/ckeditor5-special-characters": "^19.0.1",
     "@ckeditor/ckeditor5-table": "^19.1.0",
     "@ckeditor/ckeditor5-theme-lark": "^19.1.0",
